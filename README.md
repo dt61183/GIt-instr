@@ -1,1 +1,1 @@
-# GIt-instr ДЗ 3
+# GIt-instr
